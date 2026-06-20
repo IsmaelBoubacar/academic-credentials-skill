@@ -59,7 +59,7 @@ For a university graduation batch, cNFTs cost less than a cup of coffee.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/academic-credentials-skill
+git clone https://github.com/IsmaelBoubacar/academic-credentials-skill
 cd academic-credentials-skill
 ./install.sh
 ```
